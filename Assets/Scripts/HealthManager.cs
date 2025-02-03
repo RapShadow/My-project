@@ -65,8 +65,8 @@ public class HealthManager : MonoBehaviour
         }
 
 
-         handle death
-        handle death
+         //handle death
+        //handle death
          if (_isDead)
          {
              if (GetComponent<PlayerController>())
